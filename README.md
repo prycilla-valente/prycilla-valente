@@ -1,10 +1,9 @@
 ## Olá, eu sou a Prycilla Valente 👋
-⚡ Curiosidade: Sou advogada em transição de carreira para a área de tecnologia e estudante de Análise e Desenvolvimento de Sistemas.
+⚡ Curiosidade: Sou advogada em transição de carreira para a área de tecnologia e estudante de Análise e Desenvolvimento de Sistemas. Atualmente, venho construindo minha trajetória na área por meio de estudos e projetos práticos, com foco em desenvolvimento web.
 
+🔭 Atualmente estou trabalhando com desenvolvimento Front-end.
 
-🔭 Atualmente estou trabalhando com desenvolvimento Front-end
-
-🌱 Atualmente estou aprendendo CSS 3
+🌱 Atualmente estou aprendendo CSS3 e aprimorando meus conhecimentos em desenvolvimento web.
 
 
 📫 Como entrar em contato comigo: 
