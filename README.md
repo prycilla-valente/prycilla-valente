@@ -4,7 +4,7 @@
 
 🔭 Atualmente estou trabalhando com desenvolvimento Front-end
 
-🌱 Atualmente estou aprendendo CSS3
+🌱 Atualmente estou aprendendo CSS 3
 
 <div style="display: inline_block"><br>
    
